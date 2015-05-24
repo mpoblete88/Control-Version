@@ -28,3 +28,4 @@ Disallow: /plugins/
 Disallow: /templates/
 Disallow: /tmp/
 
+Control de versiones
